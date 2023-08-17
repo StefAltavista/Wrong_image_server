@@ -1,0 +1,47 @@
+{
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreidyy6plddnxkyf3cpzfjrh3ln2otjrghzpj27imjwxzmgkoij6nqa",
+    "name": "ST_ALT-SUNDS",
+    "description": "Wrong/Image creator Stef Altavista Wrong_Sefie",
+    "file_url": "https://ipfs.io/ipfs/bafybeiejij7jhkll4dmqilrpux4cng2mejizbanyq4pjsyx76yxgcgr6ba",
+    "external_url": null,
+    "animation_url": null,
+    "custom_fields": {
+        "elaborated_on": "WRONG/IMAGE",
+        "Base_Image": "face.png",
+        "Machine_1": {
+            "algorithm": "Nylon",
+            "multiplier": "9",
+            "mode": "x",
+            "divider": "9",
+            "color": "r"
+        },
+        "minted_by": "WRONG/IMAGE"
+    },
+    "attributes": null
+}
+
+{
+    "response": "OK",
+    "chain": "rinkeby",
+    "contract_address": "0x1F6Bd8b821994a2f8458C588D83626d2F3421926",
+    "transaction_hash": "0x8290d781fd6f391369b516ff5580cf3460501f73de13349008465fb9fa7ba7cb",
+    "transaction_external_url": "https://rinkeby.etherscan.io/tx/0x8290d781fd6f391369b516ff5580cf3460501f73de13349008465fb9fa7ba7cb",
+    "metadata_uri": "ipfs://bafkreidyy6plddnxkyf3cpzfjrh3ln2otjrghzpj27imjwxzmgkoij6nqa",
+    "mint_to_address": "0x10c336c43E6EDeF667C87ce0397fb572E54ea798"
+  }
+
+
+
+//////n. 2
+
+
+  {
+    "response": "OK",
+    "chain": "rinkeby",
+    "contract_address": "0x1F6Bd8b821994a2f8458C588D83626d2F3421926",
+    "transaction_hash": "0xc6eb8732dce34c0ab1113d2362bc5e45c599f1ae8f84dbb9f8d5f3f57327ec83",
+    "transaction_external_url": "https://rinkeby.etherscan.io/tx/0xc6eb8732dce34c0ab1113d2362bc5e45c599f1ae8f84dbb9f8d5f3f57327ec83",
+    "metadata_uri": "ipfs://bafkreibrfh3yswxx52ta5wbnbn4ivoh27bxz737jtqurjefq66ksfq262i",
+    "mint_to_address": "0x10c336c43E6EDeF667C87ce0397fb572E54ea798"
+  }
